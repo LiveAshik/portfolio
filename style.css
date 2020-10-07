@@ -10,9 +10,9 @@ body {
 .main-bg {
   background-image: url(img/main_bg.png);
   background-repeat: no-repeat;
-  background-size: 30%;
+  background-size: 20%;
   background-position: 80% 40%;
-  padding-bottom: 600px;
+  padding-bottom: 400px;
 }
 .main-head {
   background-color: #2f324d;
