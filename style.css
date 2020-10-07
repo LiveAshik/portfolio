@@ -1,40 +1,40 @@
-*{
-    box-sizing: border-box;
-    margin: 0;
-    padding: 0;
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
 }
-body{
-    font-family: 'Roboto' Arial, Helvetica, sans-serif;
-    background-color: #EEEEEE;
+body {
+  font-family: "Roboto" Arial, Helvetica, sans-serif;
+  background-color: #eeeeee;
 }
-.main-bg{
-    background-image: url(img/main_bg.png);
-    background-repeat: no-repeat;
-    background-size: 30%;
-    background-position: 80% 40%;
-    padding-bottom: 600px;
+.main-bg {
+  background-image: url(img/main_bg.jpg);
+  background-repeat: no-repeat;
+  background-size: 30%;
+  background-position: 80% 40%;
+  padding-bottom: 600px;
 }
-.main-head{
-    background-color: #2F324D;
+.main-head {
+  background-color: #2f324d;
 }
-.main-btn{
-    text-transform: uppercase;
-    font-weight: 600;
-    padding: 10px 30px;
-    background-color: #E84645;
-    font-size: 15px;
-    color: #fff;
+.main-btn {
+  text-transform: uppercase;
+  font-weight: 600;
+  padding: 10px 30px;
+  background-color: #e84645;
+  font-size: 15px;
+  color: #fff;
 }
 
-.container_A{
-    width: 85%;
-    margin: 0 auto;
+.container_A {
+  width: 85%;
+  margin: 0 auto;
 }
-.box-shadow{
-    box-shadow: 0px 5px 5px #000;
+.box-shadow {
+  box-shadow: 0px 5px 5px #000;
 }
 .portfolio,
-.feedback1{
+.feedback1 {
   margin: 0 !important;
   padding: 0 !important;
 }
@@ -47,21 +47,20 @@ body{
   transform: scale(0.98);
 }
 .border-war {
-  border: 1px solid #E84645;
+  border: 1px solid #e84645;
 }
-.work-items i{
-    font-size: 50px;
-    color: #E84645;
+.work-items i {
+  font-size: 50px;
+  color: #e84645;
 }
-.feed-inf{
-  background-color: #52354B;
+.feed-inf {
+  background-color: #52354b;
 }
-.foot-up{
-  background-color: #3A3E64;
+.foot-up {
+  background-color: #3a3e64;
 }
-.foot-down{
+.foot-down {
   background-color: #313455;
 }
-.foot-up i{
-
+.foot-up i {
 }
