@@ -8,11 +8,11 @@ body {
   background-color: #eeeeee;
 }
 .main-bg {
-  background-image: url(img/main_bg.png);
+  background-image: url(img/me.png);
   background-repeat: no-repeat;
   background-size: 20%;
-  background-position: 80% 40%;
-  padding-bottom: 400px;
+  background-position: 80% 0;
+  padding-bottom: 390px;
 }
 .main-head {
   background-color: #2f324d;
